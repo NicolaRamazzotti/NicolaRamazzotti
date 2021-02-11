@@ -1,7 +1,5 @@
 ### Hi there Wassup👋
 
-Here are some ideas to get you started:
-
 - 🔭  I’m currently working on cloud software for a wholesaler of cashmere and a website for an artist
 - 🌱  I’m currently learning Gatsby and MERN Stack
 - 👯  I’m looking to collaborate whit anybody have a same curiosity than mine
@@ -10,7 +8,6 @@ Here are some ideas to get you started:
 - 📫  How to reach me: nicorama15@gmail.com
 - 😄  Pronouns: Jekill15
 - ⚡ Fun fact: ...
-
 
 <br />
 
