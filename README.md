@@ -1,19 +1,16 @@
-### Hi there 👋
-
-<!--
-**NicolaRamazzotti/NicolaRamazzotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there Wassup👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on cloud software for a wholesaler of cashmere and a website for an artist
+- 🌱 I’m currently learning Gatsby and MERN Stack
+- 👯 I’m looking to collaborate whit anybody have a same curiosity than mine
+- 🤔 I’m looking for help with MONGO DB
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: nicorama15@gmail.com
+- 😄 Pronouns: Jekill15
 - ⚡ Fun fact: ...
--->
+
 
 <br />
 
