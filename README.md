@@ -2,13 +2,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on cloud software for a wholesaler of cashmere and a website for an artist
-- 🌱 I’m currently learning Gatsby and MERN Stack
-- 👯 I’m looking to collaborate whit anybody have a same curiosity than mine
-- 🤔 I’m looking for help with MONGO DB
-- 💬 Ask me about ...
-- 📫 How to reach me: nicorama15@gmail.com
-- 😄 Pronouns: Jekill15
+- 🔭  I’m currently working on cloud software for a wholesaler of cashmere and a website for an artist
+- 🌱  I’m currently learning Gatsby and MERN Stack
+- 👯  I’m looking to collaborate whit anybody have a same curiosity than mine
+- 🤔  I’m looking for help with MONGO DB
+- 💬  Ask me about everything
+- 📫  How to reach me: nicorama15@gmail.com
+- 😄  Pronouns: Jekill15
 - ⚡ Fun fact: ...
 
 
