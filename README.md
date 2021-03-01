@@ -1,13 +1,12 @@
 ### Hi there Wassup 👋
 
-- 🔭  I’m currently working on cloud software for a wholesaler of cashmere and a website for an artist
-- 🌱  I’m currently learning Gatsby and MERN Stack
+- 🔭  I’m currently working on cloud software for a wholesaler of cashmere, a website for an artist and a web application for bookings padel matches
+- 🌱  I’m currently learning Gatsby and MERNG Stack
 - 👯  I’m looking to collaborate whit anybody have a same curiosity than mine
 - 🤔  I’m looking for help with MONGO DB
 - 💬  Ask me about everything
 - 📫  How to reach me: nicorama15@gmail.com
 - 😄  Pronouns: Jekill15
-- ⚡ Fun fact: ...
 
 <br />
 
